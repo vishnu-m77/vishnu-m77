@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Vishnu
+
+I'm a new grad from the University of Waterloo. My major is Combinatorics & Optimization.
+
+I’m currently working on an ML application in quantum mechanics.
+
+I'm looking to collaborate on any project in:
+- Machine Learning
+- Algorithms
+- Optimization
+- Quantum Mechanics
 
 <!--
 **vishnu-m77/vishnu-m77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
