@@ -2,8 +2,6 @@
 
 I'm a new grad from the University of Waterloo. My major is Combinatorics & Optimization.
 
-I’m currently working on an ML application in quantum mechanics.
-
 I'm looking to collaborate on any project in:
 - Machine Learning
 - Algorithms
