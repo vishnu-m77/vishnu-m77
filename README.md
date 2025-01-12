@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Vishnu
 
-I'm a new grad from the University of Waterloo. My major is Combinatorics & Optimization.
+I'm a part time Masters student at Georgia Institute of Technology. My major is Machine Learning.
+I did my undergraduate at the University of Waterloo, majoring in Combinatorics & Optimization.
 
 I'm looking to collaborate on any project in:
 - Machine Learning
